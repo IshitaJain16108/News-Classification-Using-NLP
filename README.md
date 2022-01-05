@@ -11,11 +11,14 @@ This project aims at building a model which classifies whether the news given is
 **Datasets used:**<br>
 •true.csv <br>
 •false.csv <br>
+<br>
 **COLUMNS** <br>
 [TITLE, TEXT ,SUBJECT, DATE] <br>
+<br>
 **NO-of- rows** <br>
 *Fake.csv*:23481 <br>
 *True.csv*:21417 <br>
+<br>
 **THERE are different subjects involved** <br>
 *-------false* <br>
 News &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9050 <br>
