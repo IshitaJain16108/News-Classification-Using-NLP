@@ -19,7 +19,7 @@ This project aims at building a model which classifies whether the news given is
 *Fake.csv*:23481 <br>
 *True.csv*:21417 <br>
 <br>
-**THERE are different subjects involved** <br>
+**Different subjects involved** <br>
 *-------false* <br>
 News &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9050 <br>
 Politics News &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6841 <br>
